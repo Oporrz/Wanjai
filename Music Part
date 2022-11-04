@@ -136,7 +136,7 @@ async def resume(ctx):
         await ctx.send("หวานใจยังไม่เข้าห้องสนทนา")
 
 
-# error handling
+# กรณี error 
 
 @play.error
 async def play_error(ctx, error):
