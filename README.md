@@ -1,7 +1,13 @@
 *Show ONLY code design it's NOT All Code of this bot
 
 # Music-part
-For using open music bot you need to Download Lavalink.jar Wavelink and FFmpeg first
+
+First for using open music bot you need to Download 
+
+* Lavalink.jar 
+* Wavelink  
+* FFmpeg 
+
 Second you need to know about application.yml for exemple
 
 ``` python
