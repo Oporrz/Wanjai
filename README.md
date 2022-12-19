@@ -55,4 +55,4 @@ logging:
     root: INFO
     lavalink: INFO
     
-``` python
+```
