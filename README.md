@@ -3,6 +3,8 @@
 # Music-part
 For using open music bot you need to Download Lavalink.jar Wavelink and FFmpeg first
 Second you need to know about application.yml for exemple
+
+``` python
 server: # REST and WS server
   port: 2333
   address: 0.0.0.0
@@ -52,3 +54,5 @@ logging:
   level:
     root: INFO
     lavalink: INFO
+    
+``` python
